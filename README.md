@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristianka!
 - 👀 I’m interested in learning how to create professional websites and small optimized C++ applications.
-- 🌱 I’m currently learning web development, HTML, CSS, JavaScript and hosting websites.
+- 🌱 I’m currently learning web development which is HTML, CSS, JavaScript and later databases.
 - 📫 You can reach me via Discord xsbob#4127 (Please tell you're from github!)
 
 <!---
