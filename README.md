@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GitHub-FCC624?style=flat&logo=github&logoColor)
 <!-- Icons from https://shields.io/ -->
 ### 🤔 Mildy interesting stats
-![](https://github-readme-stats.vercel.app/api?username=kristianka&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)                                       &emsp;&emsp;&emsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianka&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kristianka&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)                                       &emsp;&emsp;&emsp; <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianka&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
