@@ -48,5 +48,4 @@ You can click the Preview link to take a look at your changes.
 ### 🤔 Mildy interesting stats
 
 ![kristianka's Stats](https://github-readme-stats.vercel.app/api?username=kristianka&theme=react&show_icons=true&hide_border=false&count_private=true)
-![kristianka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kristianka&theme=react&hide_border=false)
 ![kristianka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianka&theme=react&show_icons=true&hide_border=false&layout=compact)
