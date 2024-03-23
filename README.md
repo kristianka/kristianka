@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @kristianka!
 - 👀 I’m a software engineering student from Finland who loves coding, especially fullstack web development.
-- 🌱 Excellent with React, TypeScript, Tailwind, Express, MongoDB & SQLite. And of course the basics; HTML, CSS & JavaScript.
+- 🌱 Excellent with web development! React, TypeScript, Tailwind, Express, MongoDB & SQLite. And of course the basics; HTML, CSS & JavaScript. Also low-level code with C++ and Rust!
 - 📓  I have done a fullstack notes on a map application that took over 200 hours to make, see [here](https://github.com/kristianka/fullstack-project) for more info! 
 - 📫 You can reach me via [Telegram](https://t.me/kristiankah) (Please tell you're from github!)
 
