@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @kristianka!
 - 👀 I’m a software engineering student from Finland who loves coding, especially full stack web development.
 - 🌱 Excellent with web development! React, TypeScript, Tailwind, Express, Fastify, Postgres, MongoDB & SQLite. And of course the basics; HTML, CSS & JavaScript. Also low-level code with C++ and Rust!
-- 📫 You can reach me via [Telegram](https://t.me/kristiankah) (Please tell you're from github!)
+- 📫 You can reach me via email at [kristian@kristiankahkonen.com](mailto:kristian@kristiankahkonen.com?subject=[GitHub])!
 
 ## Projects
 - [mymemoria](https://github.com/kristianka/mymemoria)
@@ -14,6 +14,9 @@
  
 - [tamk-timetable](https://github.com/kristianka/tamk-timetable)
   - A full stack application for tamk students to handle their schedules. Made in a team, learned agile software development. Made fully with TypeScript. Frontend uses React, Tailwind. Backend uses Express and MongoDB with full CRUD. The database is Dockerized.
+
+- [kristiankahkonen.com](https://github.com/kristianka/kristiankahkonen.com)
+  - A NextJS app for my portfolio and blog. Blogs about software development. Made with TypeScript, Tailwind. Using Framer Motion for animations. SSG and ISR with NextJS. Directus for CMS. App is Dockerized and hosted in Oracle Cloud instance. Live at [kristiankahkonen.com](https://kristiankahkonen.com/)!
 
 <!---
 kristianka/kristianka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
