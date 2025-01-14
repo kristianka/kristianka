@@ -1,7 +1,7 @@
 ## About me
 
 - 👋 Hi, I’m @kristianka!
-- 👀 I’m a software engineering student from Finland who loves coding, especially full stack web development.
+- 👀 I’m a Software Engineer from Finland who loves coding, especially full stack web development.
 - 🌱 Excellent with web development! React, TypeScript, Tailwind, Express, Fastify, Postgres, MongoDB & SQLite. And of course the basics; HTML, CSS & JavaScript. Also low-level code with C++ and Rust!
 - 📫 You can reach me via email at [contact@kristiankahkonen.com](mailto:contact@kristiankahkonen.com?subject=[GitHub])!
 
