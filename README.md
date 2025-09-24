@@ -25,7 +25,7 @@
 - 🍽️ [**Kampuslounas**](https://kampuslounas.fi/)  
   Currently work in progress! Centralizes Finnish university & UAS lunch menus into one fast, modern, polished and mobile-friendly PWA. Includes cron-based menu fetching, role-based auth, and automated deployments with Docker Images.  
   **Stack:** Next.js, TypeScript, Tailwind, Prisma, PostgreSQL, Docker, GitHub Actions, Vitest, Playwright.  
-  👉 [Repo](https://github.com/kristianka/kampuslounas) · [Live app](https://kampuslounas.fi/)  
+  👉 [Changelog](https://kristiankahkonen.com/blog/kampuslounasfi-paivityshistoria) · [Live app](https://kampuslounas.fi/)  
 
 - 🗺️ [**mymemoria**](https://mymemoria.app/)  
   A map-based app for saving personal memories pinned to locations. My first large-scale project with over 250 hours of work.  
