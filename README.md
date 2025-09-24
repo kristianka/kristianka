@@ -3,11 +3,12 @@
 ## About Me  
 
 - 🇫🇮 Software Engineer from Finland
-- Computer Science Master's student @ University of Helsinki
-- 👀 Passionate about full stack web development and UI/UX!  
-- 🌱 Skilled in React, TypeScript, Tailwind, Express, Fastify, Postgres, MongoDB, SQLite — plus the classics: HTML, CSS & JavaScript  
-- 📫 Reach me at **[contact@kristiankahkonen.com](mailto:contact@kristiankahkonen.com?subject=[GitHub])**  
+- 🎓 Computer Science Master’s student @ University of Helsinki
+- 👀 Passionate about full stack web development and UI/UX
+- 🌱 Most skilled with React, TypeScript, Tailwind, Express, Postgres, Docker
+- 📫 Reach me at contact@kristiankahkonen.com
 
+  
 ---
 
 ## 🌐 Portfolio & Blog  
@@ -45,9 +46,10 @@
 
 ## 🛠️ Skills  
 
-**Frontend:** React, Next.js, TypeScript, Tailwind, Framer Motion  
-**Backend:** Node.js, Express, Fastify, Prisma, Postgres, MongoDB, SQL Server  
-**Other:** Docker, AWS, Linux, Git  
+- **Frontend:** React, Next.js (also SSR!), TypeScript, Tailwind, Framer Motion, State Management (Tanstack/React Query, Redux Toolkit, Zustand, etc.)
+- **Backend:** Node.js, Express, Fastify, Prisma, Postgres, MongoDB, SQL Server  
+- **Other:** Docker, AWS, Oracle Cloud, Linux, Git
+- **Also:** C++ and Rust (but haven't coded with those in a while :D)
 
 ---
 
